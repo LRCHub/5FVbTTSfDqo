@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "【ニコカラ】  おくすり飲んで寝よう   【Offvocal】",
+  "base_artist": "ニコカラ",
+  "createdAt": "2025-12-01T06:09:40.729691Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おくすり飲んで寝よう",
+      "artist": "もちうつね, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_おくすり飲んで寝よう_もちうつね,_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "おくすり飲んで寝よう",
+      "artist": "もちうつね, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_おくすり飲んで寝よう_もちうつね,_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "おくすり飲んで寝よう (feat. 初音ミク)",
+      "artist": "もちうつね, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_おくすり飲んで寝よう_(feat._初音ミク)_もちうつね,_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "おくすり飲んで寝よう",
+      "artist": "もちうつね, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_おくすり飲んで寝よう_もちうつね,_初音ミク.txt"
+    }
+  ]
+}
